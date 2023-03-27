@@ -1,0 +1,197 @@
+{"properties": [
+  {
+    "name": "app.datasource.prime.hikari.idle-timeout",
+    "type": "java.lang.String",
+    "description": "A description for 'app.datasource.prime.hikari.idle-timeout'"
+  },
+  {
+    "name": "app.datasource.prime.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'app.datasource.prime.driver-class-name'"
+  },
+  {
+    "name": "app.datasource.prime.password",
+    "type": "java.lang.String",
+    "description": "A description for 'app.datasource.prime.password'"
+  },
+  {
+    "name": "app.datasource.product.hikari.idle-timeout",
+    "type": "java.lang.String",
+    "description": "A description for 'app.datasource.product.hikari.idle-timeout'"
+  },
+  {
+    "name": "hibernate.hbm2ddl.auto",
+    "type": "java.lang.String",
+    "description": "A description for 'hibernate.hbm2ddl.auto'"
+  },
+  {
+    "name": "app.prime.datasource.hikari.idle-timeout",
+    "type": "java.lang.String",
+    "description": "A description for 'app.prime.datasource.hikari.idle-timeout'"
+  },
+  {
+    "name": "app.product.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'app.product.datasource.username'"
+  },
+  {
+    "name": "app.prime.jpa.show-sql",
+    "type": "java.lang.String",
+    "description": "A description for 'app.prime.jpa.show-sql'"
+  },
+  {
+    "name": "app.prime.jpa.properties.hibernate.format_sql",
+    "type": "java.lang.String",
+    "description": "A description for 'app.prime.jpa.properties.hibernate.format_sql'"
+  },
+  {
+    "name": "app.prime.jpa.properties.hibernate.dialect",
+    "type": "java.lang.String",
+    "description": "A description for 'app.prime.jpa.properties.hibernate.dialect'"
+  },
+  {
+    "name": "app.datasource.main.pool-size",
+    "type": "java.lang.String",
+    "description": "A description for 'app.datasource.main.pool-size'"
+  },
+  {
+    "name": "app.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'app.datasource.username'"
+  },
+  {
+    "name": "app.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'app.datasource.password'"
+  },
+  {
+    "name": "app.datasource.driverClassName",
+    "type": "java.lang.String",
+    "description": "A description for 'app.datasource.driverClassName'"
+  },
+  {
+    "name": "app.datasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'app.datasource.driver-class-name'"
+  },
+  {
+    "name": "app.datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'app.datasource.url'"
+  },
+  {
+    "name": "app.prime.datasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'app.prime.datasource.driver-class-name'"
+  },
+  {
+    "name": "app.prime.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'app.prime.datasource.username'"
+  },
+  {
+    "name": "app.prime.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'app.prime.datasource.password'"
+  },
+  {
+    "name": "app.prime.datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'app.prime.datasource.url'"
+  },
+  {
+    "name": "app.prime.jpa.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'app.prime.jpa.hibernate.ddl-auto'"
+  },
+  {
+    "name": "app.prime.jpa.database-platform",
+    "type": "java.lang.String",
+    "description": "A description for 'app.prime.jpa.database-platform'"
+  },
+  {
+    "name": "app.product.jpa.properties.hibernate.dialect",
+    "type": "java.lang.String",
+    "description": "A description for 'app.product.jpa.properties.hibernate.dialect'"
+  },
+  {
+    "name": "app.product.jpa.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'app.product.jpa.hibernate.ddl-auto'"
+  },
+  {
+    "name": "app.product.jpa.database-platform",
+    "type": "java.lang.String",
+    "description": "A description for 'app.product.jpa.database-platform'"
+  },
+  {
+    "name": "app.product.jpa.show-sql",
+    "type": "java.lang.String",
+    "description": "A description for 'app.product.jpa.show-sql'"
+  },
+  {
+    "name": "app.product.jpa.properties.hibernate.format_sql",
+    "type": "java.lang.String",
+    "description": "A description for 'app.product.jpa.properties.hibernate.format_sql'"
+  },
+  {
+    "name": "app.prime.datasource.maximum-pool-size",
+    "type": "java.lang.String",
+    "description": "A description for 'app.prime.datasource.maximum-pool-size'"
+  },
+  {
+    "name": "app.prime.datasource.minimum-idle",
+    "type": "java.lang.String",
+    "description": "A description for 'app.prime.datasource.minimum-idle'"
+  },
+  {
+    "name": "app.prime.datasource.pool-name",
+    "type": "java.lang.String",
+    "description": "A description for 'app.prime.datasource.pool-name'"
+  },
+  {
+    "name": "app.product.datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'app.product.datasource.url'"
+  },
+  {
+    "name": "app.product.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'app.product.datasource.password'"
+  },
+  {
+    "name": "app.product.datasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'app.product.datasource.driver-class-name'"
+  },
+  {
+    "name": "app.product.datasource.hikari.idle-timeout",
+    "type": "java.lang.String",
+    "description": "A description for 'app.product.datasource.hikari.idle-timeout'"
+  },
+  {
+    "name": "app.product.datasource.maximum-pool-size",
+    "type": "java.lang.String",
+    "description": "A description for 'app.product.datasource.maximum-pool-size'"
+  },
+  {
+    "name": "app.product.datasource.minimum-idle",
+    "type": "java.lang.String",
+    "description": "A description for 'app.product.datasource.minimum-idle'"
+  },
+  {
+    "name": "app.product.datasource.pool-name",
+    "type": "java.lang.String",
+    "description": "A description for 'app.product.datasource.pool-name'"
+  },
+  {
+    "name": "hibernate.dialect",
+    "type": "java.lang.String",
+    "description": "A description for 'hibernate.dialect'"
+  },
+  {
+    "name": "hibernate.format_sql",
+    "type": "java.lang.String",
+    "description": "A description for 'hibernate.format_sql'"
+  }
+]}
